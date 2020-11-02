@@ -1,7 +1,7 @@
 ### Hello, I'm Pratheep Kumar 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/NadarPratheep?label=Follow)](https://twitter.com/NadarPratheep)
 [![Linkedin: Pratheepknadar](https://img.shields.io/badge/-Pratheep%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratheepnadar/)](https://www.linkedin.com/in/pratheepnadar/)
-[![Kaggle Badge](https://img.shields.io/badge/-pratheepknadar-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/Pratheepknadar)](https://www.kaggle.com/pratheepknadar)
+[![Kaggle Badge](https://img.shields.io/badge/-pratheepknadar-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/pratheepknadar/competitions)](https://www.kaggle.com/pratheepknadar)
 ![Profile views](https://gpvc.arturio.dev/Pratheepknadar)
 
 I'm doing my Master's in Information Technology and Mangement (Specialization: Business Intelligence and Analytics) from The University of texas at Dallas.
