@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hello, I'm Andrey 👋
+[![Twitter Follow](https://img.shields.io/twitter/follow/NadarPratheep?label=Follow)](https://twitter.com/NadarPratheep)
+[![Linkedin: Pratheepknadar](https://img.shields.io/badge/-Pratheep%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratheepknadar/)](https://www.linkedin.com/in/pratheepknadar/)
+[![Kaggle Badge](https://img.shields.io/badge/-artgor-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/artgor)](https://www.kaggle.com/pratheepknadar)
+![Profile views](https://gpvc.arturio.dev/Pratheepknadar)
+
+I'm doing my Master's in Information Technology and Mangement (Specialization: Business Intelligence and Analytics) from The University of texas at Dallas.
+
+Currently I'm an aspiring Data Scientist and active Kaggler.
+
+![kaggle](https://i.imgur.com/1IrSJkh.png)
+
+Also I have a [portfolio](https://Pratheepknadar.github.io/) listing some of my projects, which include Kaggle kernels, and other things.
 
 <!--
 **pratheepknadar/Pratheepknadar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
