@@ -6,9 +6,7 @@
 
 I'm doing my Master's in Information Technology and Mangement (Specialization: Business Intelligence and Analytics) from The University of texas at Dallas.
 
-Currently I'm an aspiring Data Scientist and active Kaggler.
-
-![kaggle](https://i.imgur.com/6PWTjiY.png)
+Currently I love expolring data and also I'm active Kaggler.
 
 Also I have a [portfolio](https://Pratheepknadar.github.io/) listing some of my projects, which include Kaggle kernels, and other things.
 
