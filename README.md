@@ -4,7 +4,7 @@
 [![Kaggle Badge](https://img.shields.io/badge/-pratheepknadar-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/pratheepknadar/)](https://www.kaggle.com/pratheepknadar/)
 ![Profile views](https://gpvc.arturio.dev/Pratheepknadar)
 
-I'm doing my Master's in Information Technology and Mangement (Specialization: Business Intelligence and Analytics) from The University of texas at Dallas.
+I'm doing my Master's in Information Technology and Mangement (Specialization: Business Intelligence and Analytics) from The University of Texas at Dallas.
 
 I love expolring data and also I'm an active Kaggler.
 
