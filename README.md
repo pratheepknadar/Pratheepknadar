@@ -8,6 +8,10 @@ I'm doing my Master's in Information Technology and Mangement (Specialization: B
 
 I love expolring data and also I'm an active Kaggler.
 
+![](https://i.imgur.com/ppFRoVO.png)
+
+![](https://i.imgur.com/H75Q2Yr.png)
+
 Also I have a [portfolio](https://Pratheepknadar.github.io/) listing some of my projects, which include Kaggle kernels, and other things.
 
 <!--
