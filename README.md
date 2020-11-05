@@ -8,7 +8,7 @@ I'm doing my Master's in Information Technology and Mangement (Specialization: B
 
 I love expolring data and also I'm an active Kaggler.
 
-Hackerrank Badges:
+HackerRank Badges:
 
 ![](https://i.imgur.com/H75Q2Yr.png)
 
