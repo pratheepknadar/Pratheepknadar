@@ -7,8 +7,11 @@
 I'm doing my Master's in Information Technology and Mangement from The University of Texas at Dallas.
 
 ➼ Exploring data and also I'm an active Kaggler.
+
 ➼ Worked on Full-stack development using (Python, Streamlit, AngularJS, Node.JS, JavaScript)
+
 ➼ Building various Machine learning Models from scratch as well as using python libraries
+
 ➼ Implementing algorithms using languages using Python, JavaScript
 
 HackerRank Badges:
