@@ -7,6 +7,7 @@
 I'm doing my Master's in Information Technology and Mangement from The University of Texas at Dallas.
 
 Technical Expertise:
+
 ➼ Exploring data, finding insights and reporting also I'm an active Kaggler.
 
 ➼ Worked on Full-stack development using (Python, Streamlit, AngularJS, Node.JS, JavaScript)
