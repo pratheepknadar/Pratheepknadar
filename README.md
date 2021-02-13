@@ -8,7 +8,7 @@ I'm doing my Master's in Information Technology and Mangement from The Universit
 
 Technical Expertise:
 
-➼ Exploring data, finding insights and reporting also I'm an active Kaggler.
+➼ Exploring data, finding insights and reporting
 
 ➼ Worked on Full-stack development using (Python, Streamlit, AngularJS, Node.JS, JavaScript)
 
