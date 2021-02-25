@@ -10,7 +10,7 @@ Technical Expertise:
 
 ➼ Exploring data, finding insights and reporting
 
-➼ Worked on Full-stack development using (Python, Streamlit, AngularJS, Node.JS, JavaScript)
+➼ deployed Full-stack Machine learning based web applications using (Python, Streamlit, AngularJS, Node.JS, JavaScript)
 
 ➼ Building various Machine learning Models from scratch as well as using python libraries
 
