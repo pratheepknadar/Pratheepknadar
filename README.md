@@ -8,7 +8,7 @@ I'm doing my Master's in Information Technology and Mangement from The Universit
 
 Technical Expertise:
 
-➼ Exploring data, finding insights and reporting
+➼ Exploring data, finding insights, reporting and making data-driven decisions.
 
 ➼ Deploying Full-stack Machine learning applications using (Python, Streamlit, Angular, JavaScript, Spring Boot)
 
