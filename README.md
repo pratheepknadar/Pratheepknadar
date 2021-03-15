@@ -1,3 +1,5 @@
+
+<!--
 ### Hello, I'm Pratheep Kumar 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/NadarPratheep?label=Follow)](https://twitter.com/NadarPratheep)
 [![Linkedin: Pratheepknadar](https://img.shields.io/badge/-Pratheep%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratheepnadar/)](https://www.linkedin.com/in/pratheepnadar/)
@@ -22,7 +24,7 @@ HackerRank Badges:
 
 Also I have a [portfolio](https://Pratheepknadar.github.io/) listing some of my projects, which include Kaggle kernels, and other things.
 
-<!--
+
 **pratheepknadar/Pratheepknadar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
