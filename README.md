@@ -12,7 +12,7 @@ Technical Expertise:
 
 ➼ Exploring data, finding insights, reporting and making data-driven decisions.
 
-➼ Deploying Full-stack Machine learning applications using (Python, Streamlit, Angular, JavaScript, Spring Boot)
+➼ Deploying Full-stack end to end Machine learning applications using (Python, Angular, JavaScript, Spring Boot, Flask)
 
 ➼ Building various Machine learning Models from scratch as well as using python libraries
 
