@@ -1,40 +1,76 @@
+# 👋 Hi, I'm Pratheep Nadar
 
-<!---
-### Hello, I'm Pratheep Kumar 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/NadarPratheep?label=Follow)](https://twitter.com/NadarPratheep)
-[![Linkedin: Pratheepknadar](https://img.shields.io/badge/-Pratheep%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratheepnadar/)](https://www.linkedin.com/in/pratheepnadar/)
-[![Kaggle Badge](https://img.shields.io/badge/-pratheepknadar-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/pratheepknadar/)](https://www.kaggle.com/pratheepknadar/)
-![Profile views](https://gpvc.arturio.dev/Pratheepknadar)
+<!--- 🚀 **Data Analyst | Aspiring Software Engineer | Automation Enthusiast**
 
-I'm doing my Master's in Information Technology and Mangement from The University of Texas at Dallas.
+I'm currently working as a **Data Analyst** in the Project Management department at **Worley**, where I transform large datasets into actionable insights and automate workflows for operational efficiency.  
+My ultimate goal is to transition into a **Software Development Engineer (SDE)** role, leveraging my skills in **Python, SQL, Java, JavaScript, Flask, React, and Machine Learning** to build impactful solutions.
 
-Technical Expertise:
+---
 
-➼ Exploring data, finding insights, reporting and making data-driven decisions.
+## 🛠️ Tech Stack & Tools
 
-➼ Deploying Full-stack end to end Machine learning applications using (Python, Angular, JavaScript, Spring Boot, Flask)
+**Languages & Frameworks**  
+- Python (Pandas, NumPy, Flask)  
+- Java & JavaScript (ESM)  
+- SQL (Advanced queries, stored procedures)  
+- HTML, CSS, React  
+- R (Data Analysis & Visualization)  
 
-➼ Building various Machine learning Models from scratch as well as using python libraries
+**Data Tools**  
+- Power BI (Advanced dashboards)  
+- MS Excel (VBA Macros, Automation)  
+- MS Power Automate (Flows)  
+- ETL Pipeline Development  
+- Firebase Firestore (Auth & Storage)  
 
-➼ Implementing algorithms using languages using Python, JavaScript
+**Other Skills**  
+- Agile Methodology  
+- Process Optimization & Workflow Automation  
+- Dynamic HTML integration into Power BI  
+- Cross-database data integration  
 
-HackerRank Badges:
+---
 
-![](https://i.imgur.com/H75Q2Yr.png)
+## 📌 Key Highlights
 
-Also I have a [portfolio](https://Pratheepknadar.github.io/) listing some of my projects, which include Kaggle kernels, and other things.
+- **Data Automation** — Reduced manual work hours by automating reporting and ETL processes using Python, Macros, and Power Automate.
+- **Executive Dashboards** — Designed user-friendly dashboards for top-tier management, enabling real-time decision-making.
+- **Database Expertise** — Developed SQL queries and scripts for large datasets to ensure data accuracy and performance.
+- **Custom Tools** — Built HTML and script-based enhancements for Power BI to extend visualization capabilities.
+- **App Development** — Created a React Native app for project material tracking, integrated with Firebase for backend storage and authentication.
 
+---
 
-**pratheepknadar/Pratheepknadar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📂 Featured Projects
 
-Here are some ideas to get you started:
+### 1. **React Native Project Material Tracker**  
+📱 App to manage materials used in electrical wiring projects — supports project search, monthly tabs, and Firebase backend.  
+**Tech:** React Native, Firebase Firestore, Authentication  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
--->
+### 2. **Python ETL Automation Suite**  
+⚡ Python scripts to extract, transform, and load data across multiple databases, ensuring speed and accuracy in reporting.  
+**Tech:** Python, Pandas, SQLAlchemy  
+
+### 3. **Dynamic Power BI Enhancements**  
+📊 Integrated HTML-based tables and images into Power BI reports for richer visual context.  
+**Tech:** HTML, JavaScript, Power BI  
+
+---
+
+## 🎯 2025 Goals
+
+- Transition into an **SDE role** with a focus on backend and full-stack development.
+- Achieve mastery in **LeetCode** & **Kaggle** while managing full-time work.
+- Build scalable applications for both internal business operations and public use.
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/pratheepnadar](https://linkedin.com/in/pratheepnadar)  
+- **GitHub:** [github.com/pratheepnadar](https://github.com/pratheepnadar)  
+
+---
+
+💡 _"Data tells a story — I build the tools to tell it better."_
+--->
