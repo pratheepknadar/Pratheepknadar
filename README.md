@@ -1,40 +1,102 @@
-# 👋 Hi, I'm Pratheep Nadar
+# 👋 Hi, I'm Pratheep Kumar Nadar
 
-<!--- 🚀 **Data Analyst **
+🚀 Data Analytics | Software Development | Backend & Systems Enthusiast | Learning AI Engineering  
+📍 Mumbai, India
 
-I'm currently working as a **Data Analyst** in the Project Management department at **Worley**, where I transform large datasets into actionable insights and automate workflows for operational efficiency.  
+---
+
+## 🧠 About Me
+
+I’m a software developer who enjoys building **scalable backend systems**, understanding **how things work under the hood**, and continuously improving through **DSA and system design**.
+
+Currently focused on:
+- Backend development (Node.js, Python)
+- Databases & data-intensive systems
+- Distributed systems concepts
+- AI Engineering & Agentic AI (learning phase)
+- Solving problems on LeetCode
+
+I believe in **learning fundamentals deeply**, not just frameworks.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-**Languages & Frameworks**  
-- Python (Pandas, NumPy, Flask)  
-- Java & JavaScript (ESM)  
-- SQL (Advanced queries, stored procedures)  
-- HTML, CSS, React  
-- R (Data Analysis & Visualization)  
+**Languages**
+- Python
+- JavaScript
+- SQL
 
-**Data Tools**  
-- Power BI (Advanced dashboards)  
-- MS Excel (VBA Macros, Automation)  
-- MS Power Automate (Flows)  
-- ETL Pipeline Development  
-- Firebase Firestore (Auth & Storage)  
+**Backend & Web**
+- Node.js
+- Express.js
+- Flask
+- REST APIs
 
-**Other Skills**  
-- Agile Methodology  
-- Process Optimization & Workflow Automation  
-- Dynamic HTML integration into Power BI  
-- Cross-database data integration  
+**Databases**
+- PostgreSQL
+- SQLite
+- MongoDB (basics)
+
+**Frontend (working knowledge)**
+- React
+- HTML, CSS
+
+**Tools & Platforms**
+- Git & GitHub
+- Linux (Mint)
+- Cloudinary
+- Netlify
+- Docker (learning)
 
 ---
+
+## 📚 Currently Learning
+
+- 📘 *Designing Data-Intensive Applications* – Martin Kleppmann
+- 📘 *Prompt Engineering for LLMs* – John Berryman  
+- 📘 *Web Scalability for startup engineeers* – Artur Ejsmont   
+- 🧠 System Design (Frontend + Backend)
+- 🤖 Agentic AI & LLM applications
+
+---
+
+## 🧩 Problem Solving
+
+- Regularly solving **LeetCode** problems
+- Focus on:
+  - Dynamic Programming
+  - Strings & Arrays
+  - Graphs & Trees
+  - Recursion & Backtracking
+
+> Goal: Think clearly, not just pass test cases.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratheepknadar&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratheepknadar&layout=compact&theme=tokyonight)
+
+
+---
+
+## 🎯 What I Care About
+
+- Writing **readable, maintainable code**
+- Understanding **trade-offs**
+- Building things from scratch
+- Long-term growth over shortcuts
+
+---
+
 ## 📫 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/pratheepnadar](https://linkedin.com/in/pratheepnadar)  
-- **GitHub:** [github.com/pratheepnadar](https://github.com/pratheepnadar)  
+- GitHub: https://github.com/pratheepknadar
+- LinkedIn: (add when ready)
 
 ---
 
-💡 _"Data tells a story — I build the tools to tell it better."_
---->
+⭐ *If you like my work, feel free to star a repo or start a conversation.*
