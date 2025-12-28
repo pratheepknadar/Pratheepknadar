@@ -95,7 +95,6 @@ I believe in **learning fundamentals deeply**, not just frameworks.
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/pratheepknadar
-- LinkedIn: (add when ready)
 
 ---
 
