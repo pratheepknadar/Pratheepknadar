@@ -1,101 +1,103 @@
-# 👋 Hi, I'm Pratheep Kumar Nadar
+---
 
-🚀 Data Analytics | Software Development | Backend & Systems Enthusiast | Learning AI Engineering  
+# Hi, I’m Pratheep Kumar Nadar 👋
+
+**Data Analyst | Analytics Engineering | Backend & Systems (Learning)**
 📍 Mumbai, India
 
 ---
 
 ## 🧠 About Me
 
-I’m a software developer who enjoys building **scalable backend systems**, understanding **how things work under the hood**, and continuously improving through **DSA and system design**.
+I work as a **Data Analyst** and enjoy turning data into **reliable insights and systems**.
+Alongside analytics work, I’m gradually building stronger **software engineering fundamentals** to better understand how data platforms and applications are built end-to-end.
 
-Currently focused on:
-- Backend development (Node.js, Python)
-- Databases & data-intensive systems
-- Distributed systems concepts
-- AI Engineering & Agentic AI (learning phase)
-- Solving problems on LeetCode
+My interests include:
 
-I believe in **learning fundamentals deeply**, not just frameworks.
+* Data analysis and analytics workflows
+* Analytics engineering and backend support systems
+* Working with databases and data-intensive applications
+* Understanding system design and scalability concepts
+* Exploring AI engineering and LLM-based tools (learning phase)
+
+I focus on **clarity, correctness, and long-term skill growth**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Tools
 
-**Languages**
-- Python
-- JavaScript
-- SQL
+**Data & Analytics**
 
-**Backend & Web**
-- Node.js
-- Express.js
-- Flask
-- REST APIs
+* SQL
+* Data analysis & querying
+* Data modeling (basics)
+
+**Programming**
+
+* Python
+* JavaScript
+
+**Backend & Engineering (learning / applied where relevant)**
+
+* Node.js
+* Express.js
+* Flask
+* REST APIs
 
 **Databases**
-- PostgreSQL
-- SQLite
-- MongoDB (basics)
+
+* PostgreSQL
+* SQLite
+* MongoDB (basic usage)
 
 **Frontend (working knowledge)**
-- React
-- HTML, CSS
+
+* React
+* HTML, CSS
 
 **Tools & Platforms**
-- Git & GitHub
-- Linux (Mint)
-- Cloudinary
-- Netlify
-- Docker (learning)
+
+* Git & GitHub
+* Linux (Mint)
+* Docker (learning)
+* Cloudinary
+* Netlify
 
 ---
 
 ## 📚 Currently Learning
 
-- 📘 *Designing Data-Intensive Applications* – Martin Kleppmann
-- 📘 *Prompt Engineering for LLMs* – John Berryman  
-- 📘 *Web Scalability for startup engineeers* – Artur Ejsmont   
-- 🧠 System Design (Frontend + Backend)
-- 🤖 Agentic AI & LLM applications
+* *Designing Data-Intensive Applications* — Martin Kleppmann
+* *Prompt Engineering for LLMs* — John Berryman
+* *Web Scalability for Startup Engineers* — Artur Ejsmont
+* Analytics engineering & system design concepts
+* AI engineering and LLM-based applications
 
 ---
 
 ## 🧩 Problem Solving
 
-- Regularly solving **LeetCode** problems
-- Focus on:
-  - Dynamic Programming
-  - Strings & Arrays
-  - Graphs & Trees
-  - Recursion & Backtracking
+I regularly practice **structured problem-solving** to improve:
 
-> Goal: Think clearly, not just pass test cases.
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratheepknadar&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratheepknadar&layout=compact&theme=tokyonight)
-
+* Data reasoning and analysis accuracy
+* Writing clearer, more maintainable code
+* Understanding performance and trade-offs
 
 ---
 
 ## 🎯 What I Care About
 
-- Writing **readable, maintainable code**
-- Understanding **trade-offs**
-- Building things from scratch
-- Long-term growth over shortcuts
+* Delivering **accurate and trustworthy insights**
+* Writing **clean, maintainable code**
+* Understanding how data systems work internally
+* Applying learning to real analytics and engineering problems
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/pratheepknadar
+* GitHub: [https://github.com/pratheepknadar](https://github.com/pratheepknadar)
+
+⭐ *Feel free to explore my repositories or start a conversation.*
 
 ---
-
-⭐ *If you like my work, feel free to star a repo or start a conversation.*
