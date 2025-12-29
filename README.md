@@ -1,5 +1,3 @@
----
-
 # Hi, I’m Pratheep Kumar Nadar 👋
 
 **Data Analyst | Analytics Engineering | Backend & Systems (Learning)**
