@@ -68,7 +68,6 @@ I focus on **clarity, correctness, and long-term skill growth**.
 * *Designing Data-Intensive Applications* — Martin Kleppmann
 * *Prompt Engineering for LLMs* — John Berryman
 * *Web Scalability for Startup Engineers* — Artur Ejsmont
-* Analytics engineering & system design concepts
 * AI engineering and LLM-based applications
 
 ---
